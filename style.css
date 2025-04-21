@@ -13,6 +13,11 @@
    
 }
 
+.title{
+    color: darkred;
+    font-size: 20px;
+}
+
 .navbar{
     width: 1200px;
     height: 75px;
@@ -99,10 +104,6 @@ ul li a:hover{
     color: darkred;
 }
 
-.title{
-    color: darkred;
-    font-size: 20px;
-}
 
 h2{
     font-family: 'Times New Roman';
