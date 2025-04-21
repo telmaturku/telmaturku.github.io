@@ -102,3 +102,21 @@ ul li a:hover{
 .title{
     color: darkred;
 }
+
+h2{
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    padding-left: 15px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+    color: darkred;
+}
+
+h3{
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    padding-left: 15px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+    color: darkred;
+}
