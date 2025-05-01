@@ -124,12 +124,6 @@ h4{
     color: darkred;
 }
 
-.myimage.jpg{
-    height: 600px;
-    width: 500px;
-    border-radius: 10px;
-    float: right;
-}
 
 table {
     font-family: arial, sans-serif;
