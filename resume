@@ -7,6 +7,13 @@
 <meta charset="utf-8" />
 </head>
 <body> 
+    <nav>
+        <a href="index.html">HOME</a> </p>
+        <a href="resume">MY RESUME</a> </p>
+        <a href="contact">CONTACT</a> </p>
+        
+    </nav>
+    
     <h1>My resume</h1>
 
     <h2>My current and past experience</h2>
