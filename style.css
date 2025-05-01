@@ -130,3 +130,12 @@ h4{
     border-radius: 10px;
     float: right;
 }
+
+.table{
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    padding-left: 15px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+    color: darkred;
+}
